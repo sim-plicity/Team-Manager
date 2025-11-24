@@ -78,7 +78,6 @@ SWxx.exe /d
 SWxx.exe /p "ProfileName"
 ```
 
-Note: Advanced mode (`/a`) is not generally available in standard releases.
 
 ## System Requirements
 

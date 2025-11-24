@@ -150,7 +150,7 @@ Your wheelbase ships with safe default settings that provide usable response for
 
 ## Optional Enhancements (Advanced)
 
-For users of specific racing simulations, the **Sim Presets Installer** can configure games for native wheelbase support. This is covered in the [Advanced Configuration](Advanced-Configuration.md) section.
+For users of specific racing simulations, the **Sim Presets Installer** can configure games for native wheelbase support. 
 
 **Supported simulations:**
 - rFactor2
@@ -166,12 +166,11 @@ For users of specific racing simulations, the **Sim Presets Installer** can conf
 Congratulations! Your wheelbase is now set up and ready for use. Here's what to explore next:
 
 ### Recommended Reading Order:
-1. **[Basic Configuration](Basic-Configuration.md)** - Detailed explanation of all settings
+1. **[Configuration]Configuration.md)** - Detailed explanation of all settings
 2. **[Profiles Management](Profiles-Management.md)** - Save and manage multiple configurations
 3. **[Optimization Guide](Optimization-Guide.md)** - Recommended setups for different types of racing
 
 ### Advanced Features (when ready):
-- **[Advanced Configuration](Advanced-Configuration.md)** - Controller tuning and USB modes
 - **[Inputs Configuration](Inputs-Configuration.md)** - Pedal and expansion device setup
 - **[Telemetry Monitoring](Telemetry-Monitoring.md)** - Performance monitoring and diagnostics
 
@@ -206,4 +205,4 @@ Congratulations! Your wheelbase is now set up and ready for use. Here's what to 
 
 ---
 
-**Ready to fine-tune your wheelbase?** Continue to [Basic Configuration](Basic-Configuration.md) to learn about each setting in detail and optimize your force feedback experience.
+**Ready to fine-tune your wheelbase?** Continue to [Configuration](Configuration.md) to learn about each setting in detail and optimize your force feedback experience.

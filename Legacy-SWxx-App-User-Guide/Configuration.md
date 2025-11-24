@@ -136,7 +136,6 @@ The Settings tab provides intuitive control over your wheelbase's fundamental pa
 ### Model Limitations
 - **SW7 Compact**: Limited to 1.2x for safety
 - **Higher-end models**: May support up to 1.5x
-- **Always follow manufacturer guidelines** for your specific model
 
 ### Recommended Settings
 - **Purists**: 1.0x (disabled)
@@ -200,7 +199,7 @@ The Settings tab provides intuitive control over your wheelbase's fundamental pa
 
 **Measurement:** Revolutions per minute (rpm)
 
-**Range by Model:** 100 - 500 rpm (model dependent)
+**Range:** 75 - 250 rpm
 
 ### Understanding Max Speed
 
@@ -226,7 +225,7 @@ The Settings tab provides intuitive control over your wheelbase's fundamental pa
 | **Precision Racing** | 100-150 rpm | Strong weight control, smooth inputs |
 | **GT Racing** | 150-200 rpm | Balance of control and response |
 | **Rally** | 200-250 rpm | Quick steering with some weight control |
-| **Drifting** | 250-300 rpm | Fast response with oscillation control |
+| **Drifting** | 225-250 rpm | Fast response with oscillation control |
 | **Formula Racing** | 200-250 rpm | Quick response with stability |
 
 ## Wheel Weight
