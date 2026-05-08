@@ -32,7 +32,7 @@ Our product line includes various generations of hardware designed to work along
 
 ### Heritage & Community Support (Gen 1 OSW)
 We continue to support the community and third-party Open Sim Wheel (OSW) implementations:
-* Sim-plicity OSW IC Pro / HC (Granite Devices IONI Pro + IONICube-X1)
+* Sim-plicity OSW IC Pro / HC (Granite Devices IONI Pro + IONICube)
 * Sim-plicity OSW SC / SC HC (Original SimuCube 1 builds)
 * MiGE 130ST-based OSW builds
 
