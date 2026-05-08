@@ -30,7 +30,7 @@ Our product line includes various generations of hardware designed to work along
 * **Gen 2:** SW20 V3 / V3.1, SW25, SW30, Compact & Esport series
 * **Gen 3:** Integrated PCB-based platforms
 
-### Heritage & Community Support (Gen 1 OSW)
+### Gen 1 OSW & Community Support
 We continue to support the community and third-party Open Sim Wheel (OSW) implementations:
 * Sim-plicity OSW IC Pro / HC (Granite Devices IONI Pro + IONICube)
 * Sim-plicity OSW SC / SC HC (Original SimuCube 1 builds)
